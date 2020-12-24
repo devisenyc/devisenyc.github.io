@@ -5,9 +5,7 @@ Mask of the mind
 ----------------
 
 
-Gareth Idris
-
-[devise.nyc](https://devise.nyc)
+Gareth Idris\n[devise.nyc](https://devise.nyc)
 
 ### Breathing
 
