@@ -4,8 +4,8 @@ Distributed systems approach to airborne viruses
 Mask of the mind
 ----------------
 
-
-Gareth Idris\n[devise.nyc](https://devise.nyc)
+Gareth Idris  
+[**devise.nyc**](https://devise.nyc)
 
 ### Breathing
 
@@ -15,23 +15,25 @@ Conversely, raising your diaphragm will contract your lungs and create more pres
 
 Thirdly, it's possible for you to close your throat. What's happening here is that you're using a flap of muscle called the *epiglottis* to block the pathway to your windpipe, or *larynx*. This effectively isolates the container—your lungs—from the outside world, or atmosphere. If your epiglottis is healthy, it can work as a valve to prevent the flow of air in or out of your lungs, without too much concern for the state of the pressure gradient. This is called *holding your breath*.
 
-### Viruses and the Central Dogma
+### Viruses
+
+#### Central Dogma
 
 To explain viruses, we first introduce the *Central Dogma of Molecular Biology*. This dogma relates three essential biological concepts: *DNA*, *RNA* and *proteins*.
 
-#### DNA
+##### DNA
 
-DNA is a genetic code that contains information about various processes of life in your body. Because each cell in your body only has one copy of your DNA, there's a process for copying your DNA sequences, or genes, into RNA sequences, and then replicating that RNA many times over. 
+DNA is a genetic code that contains information about various processes of life in your body. Because each cell in your body only has one copy of your DNA, there's a process for copying your DNA sequences, or genes, into RNA sequences, and then replicating that RNA many times over.
 
-#### RNA
+##### RNA
 
 Now that there are many copies of the same RNA sequence, those copies can themselves be used many times over, simultaneously, effectively increasing the *bandwidth* for the encoded message within the sequence, and eliminating *bottlenecks* that would otherwise prevent their use.
 
-#### Protein
+##### Protein
 
 Then, we *translate* these RNA sequences into proteins. Proteins, or enzymes, are little biological machines that go around performing all the processes of life inside your body. Translation is itself performed by protein machines that know how to interpret the genetic codes of an RNA sequence, and assemble together the right *amino acid* sequence necessary to make various kinds of protein machines needed for the processes of life. The newly synthesized chains of amino acids then fold themselves into the right shape according to the laws of nature.
 
-### Hijack
+#### Hijack
 
 Viruses work by hijacking the Central Dogma of Molecular Biology. An example viral particle might consist of an RNA sequence, wrapped in a protective coating *membrane*, with an *injector* that is designed to attach to a *receptor*. Receptors are a type of protein that sits within your cell membranes, and they wait to receive particles of a certain shape on the outside of the membrane.
 
@@ -41,13 +43,13 @@ Now, suddenly, there is a foreign RNA sequence inside one of your cells. Cells d
 
 Your fundamental cellular hardware has been hijacked, and is now a factory for producing all the proteins of the virus that are encoded in its RNA. This includes all the components of the viral particles—protective coating membrane, injector, and of course, the RNA sequence. They then assemble themselves into individual viral particles, according to the laws of nature.
 
-### Damage
+#### Damage
 
 Many viral particles are now forming inside your cell, to the point where it starts to get full. At some point, the cell will become overstretched, and burst open, in a process known as *lysing*. Now there are viral particles floating about all over the place inside your lungs, possibly attaching to other vulnerable receptors, and repeating the same process, exponentially, *ad nauseum*.
 
 Cells make up tissues, and tissues are organized into organs (ears, eyes, nose, throat, heart, liver, lungs, skin, etc). If you damage enough of your cells–tissues–organs, the processes of life will no longer be able to sustain themselves. You die.
 
-### Spread
+#### Spread
 
 You have various immune mechanisms for dealing with invading foreign particles. The most relevant mechanism in this case is coughing. The lungs determine that they have a source of irritation, and seek to expel it. This results in a cough—a rapid exhalation mediated by the valve of the epiglottis. If the foreign particles are relatively benign, e.g. pollen or some other allergen, all is well. However, if you have the unfortunate fate of being infected with a virus, the cough mechanism will be hijacked by the viral particles to increase their spread. There are now viral particles all around you, being potentially breathed in by those close to you, landing on surfaces, etc.
 
@@ -66,4 +68,3 @@ You will find many different situations and encounters in which these principles
 ### Generality
 
 We can synthetically extend our immune system by wearing masks, to further disrupt the flow of the rather large viral particles by hoping they will become entangled in the mask material, or not spread as broadly when we breathe. But even if you don't have your mask with you, even in the future when a new viral threat emerges, you can always wear the *mask of the mind*.
-
