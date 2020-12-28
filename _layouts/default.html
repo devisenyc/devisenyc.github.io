@@ -1,13 +1,16 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/style.css">
-    {% include analytics.html %}
-  </head>
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
   <body>
-    {% include navigation.html %}
-    {{ content }}
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </div>
+
   </body>
 </html>

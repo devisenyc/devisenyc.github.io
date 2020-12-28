@@ -1,11 +1,7 @@
 ---
 layout: default
 title: Distributed systems approach to airborne viruses
-permalink: /practice/mask
 ---
-Distributed systems approach to airborne viruses
-================================================
-
 Mask of the mind
 ----------------
 

@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+# Dependencies
+highlighter: pygments
+
+# Setup
+title:       Devise
+url:         https://devise.nyc
+baseurl:     /
+permalink:   /:categories/:year/:month/:day/:title
