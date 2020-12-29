@@ -2,6 +2,11 @@
 layout: default
 title: About
 ---
+Enquiries
+---------
+
+<a href="mailto:steven@devise.nyc>steven@devise.nyc</a>
+
 Theme
 -----
 
