@@ -5,7 +5,7 @@ title: About
 Enquiries
 ---------
 
-<a href="mailto:steven@devise.nyc>steven@devise.nyc</a>
+[steven@devise.nyc](mailto:steven@devise.nyc)
 
 Theme
 -----
