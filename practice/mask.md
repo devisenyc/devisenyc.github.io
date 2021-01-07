@@ -8,6 +8,10 @@ Mask of the mind
 Gareth Idris  
 [**devise.nyc**](https://devise.nyc)
 
+### Claim
+
+We can significantly reduce the spread of airborne viruses by teaching people how to develop an intuitive understanding of viral particle behaviors. This knowledge will inevitably lead to safer behaviors, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to the public.
+
 ### Breathing
 
 What happens when you breathe? Air is moving in and out of your lungs as a result of a pressure gradient. You can control this pressure gradient with your mind. If you lower your diaphragm, you will expand your lungs—leading to a lower density of air particles in your lungs, creating negative pressure, thus inviting the atmosphere inside of you. We call this process *inhalation*.
