@@ -10,7 +10,7 @@ Gareth Idris
 
 ### Claim
 
-We can significantly reduce the spread of airborne viruses by helping the people in our lives develop an intuitive understanding of viral particle behaviors. This knowledge will inevitably lead to safer behaviors, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to those around us, and the public at large.
+We can significantly reduce the spread of airborne viruses by helping people develop an intuitive understanding of the behavior of airborne viral particles. This knowledge will inevitably lead to safer behaviors, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to those around us, and the public at large.
 
 ### Breathing
 
@@ -24,7 +24,7 @@ Thirdly, it's possible for you to close your throat. What's happening here is th
 
 #### Central Dogma
 
-To explain viruses, we first introduce the *Central Dogma of Molecular Biology*. This dogma relates three essential biological concepts: *DNA*, *RNA* and *proteins*.
+To explain viruses, we first introduce the [*Central Dogma of Molecular Biology*](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology). This dogma relates three essential biological concepts: *DNA*, *RNA* and *proteins*.
 
 ##### DNA
 
