@@ -10,7 +10,7 @@ Gareth Idris
 
 ### Claim
 
-We can significantly reduce the spread of airborne viruses by teaching people how to develop an intuitive understanding of viral particle behaviors. This knowledge will inevitably lead to safer behaviors, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to the public.
+We can significantly reduce the spread of airborne viruses by helping the people in our lives develop an intuitive understanding of viral particle behaviors. This knowledge will inevitably lead to safer behaviors, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to those around us, and the public at large.
 
 ### Breathing
 
@@ -64,11 +64,17 @@ You may now appreciate that coughing is a special case of breathing. So of cours
 
 Let's explore the implications for human behavior. When you are in a room, hallway or elevator, you are in an enclosed space, sharing the available atmosphere with the people around you. Anyone, including yourself, may be infected with an airborne virus and be unaware, due to a lack of symptoms. This is primetime for viral spread.
 
-Take a breath before you enter the room, or elevator. When inside, you can hold your breath, or tend towards a gentle exhale. You will appreciate that it's near impossible to get infected unless you allow the atmosphere to flow into your lungs. Conversely, such a moment would be a bad time to exhale a large amount of air from your lungs, as you yourself may be unknowingly infected, and could potentially be ejecting viral particles into the atmosphere shared with the people around you.
+Take a breath before you enter the room, or elevator. When inside, you can hold your breath, or tend towards a gentle exhale. You will appreciate that it's near impossible to get infected unless you allow the atmosphere to flow into your lungs. Conversely, this would be a bad time to exhale a large amount of air from your lungs, as you yourself may be unknowingly infected, and could potentially be ejecting viral particles into the atmosphere shared with the people around you.
 
-On the other hand, when you are out and about and find yourself away from other people, you have a good opportunity to breathe. Minimize your breathing as you reach near other people. Or, if time allows, you can wait for the space to clear. Consider how the distance between you, and others, and your breathing, influence the risk of spreading infection.
+On the other hand, when you're in public and find yourself away from other people, you have a good opportunity to breathe. Minimize your breathing as you reach near other people. Or, if time allows, you can wait for the space to clear. Consider how the distance between you, and others, and your breathing, influence the risk of spreading infection.
 
-You will find many different situations and encounters in which these principles will generally apply in your own life.
+You might also be wary of stepping into a space immediately after someone else. Imagine a concentrated cloud of viral particles that could potentially be around the person as they breathed, slowly dispersing away, while some other particles fall to the ground. You might wait a moment for the air to clear.
+
+How quickly you are moving will also increase the amount of energy, and therefore oxygen you need, resulting in harder breathing. A casual stroll instead of the usual brisk walk might be more neighborly to those around you.
+
+Also consider how the amount of viral particles that make it into your lung, or *viral load*, impacts the likelihood of getting infected at all. More viral particles bouncing around in your lungs means a greater chance of one of them lining themselves up correctly in orientation and space to attach to the right kind of receptor. Thus even if you have to breathe possibly viral air, breathing in less air would be better.
+
+While none of these are a slam dunk, you can see it's a probability game. Just do the best you can muster, try to improve your understanding, and don't sweat it when you mess up.
 
 ### Generality
 
