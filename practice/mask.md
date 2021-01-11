@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Distributed systems approach to airborne viruses
+title: Mask of the mind
 ---
-Mask of the mind
+How to breathe with care during pandemics
 ----------------
 
 Gareth Idris  
@@ -10,7 +10,7 @@ Gareth Idris
 
 ### Claim
 
-We can significantly reduce the spread of airborne viruses by helping people develop an intuitive understanding of the behavior of airborne viral particles. This knowledge will inevitably lead to safer behaviors, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to those around us, and the public at large.
+We can significantly reduce the spread of airborne viruses by helping people develop an intuitive visual understanding of the behavior of airborne viral particles. This knowledge will inevitably lead to safer behaviors, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to those around us, and folks at large.
 
 ### Breathing
 
@@ -40,7 +40,7 @@ Then, we *translate* these RNA sequences into proteins. Proteins, or enzymes, ar
 
 #### Hijack
 
-Viruses work by hijacking the Central Dogma of Molecular Biology. An example viral particle might consist of an RNA sequence, wrapped in a protective coating *membrane*, with an *injector* that is designed to attach to a *receptor*. Receptors are a type of protein that sits within your cell membranes, and they wait to receive particles of a certain shape on the outside of the membrane.
+Viruses work by hijacking the Central Dogma of Molecular Biology. An example viral particle might consist of an RNA sequence, wrapped in a protective coating *membrane*, with an *injector* that is designed to attach to a *receptor*. Receptors are a type of protein that sits within your cell membranes, and they wait to receive particles of a certain shape on the outside of the membrane in order to transport them into the cell.
 
 You may appreciate that if these vulnerable cells are in your lungs, for example, there is some probability that you will inhale a number of viral particles. Then there is some chance that one, or some, of these particles will bounce around inside your lungs and may successfully orient and attach themselves to your vulnerable receptors. At this point, the virus will inject its RNA sequence inside your cell, by hijacking the receptor.
 
@@ -50,31 +50,37 @@ Your fundamental cellular hardware has been hijacked, and is now a factory for p
 
 #### Damage
 
-Many viral particles are now forming inside your cell, to the point where it starts to get full. At some point, the cell will become overstretched, and burst open, in a process known as *lysing*. Now there are viral particles floating about all over the place inside your lungs, possibly attaching to other vulnerable receptors, and repeating the same process, exponentially, *ad nauseum*.
+Many viral particles are now forming inside your cell, to the point where it's full of virus. At some point, the cell will become overstretched, and burst open, in a process known as *lysing*. Now there are viral particles floating about all over the place inside your lungs, possibly attaching to other vulnerable receptors, and repeating the same process, exponentially, *ad nauseum*.
+
+The virus may then spread into the bloodstream, and find the right receptors to hijack elsewhere in the body, attacking other organs.
 
 Cells make up tissues, and tissues are organized into organs (ears, eyes, nose, throat, heart, liver, lungs, skin, etc). If you damage enough of your cells–tissues–organs, the processes of life will no longer be able to sustain themselves. You die.
 
 #### Spread
 
-You have various immune mechanisms for dealing with invading foreign particles. The most relevant mechanism in this case is coughing. The lungs determine that they have a source of irritation, and seek to expel it. This results in a cough—a rapid exhalation mediated by the valve of the epiglottis. If the foreign particles are relatively benign, e.g. pollen or some other allergen, all is well. However, if you have the unfortunate fate of being infected with a virus, the cough mechanism will be hijacked by the viral particles to increase their spread. There are now viral particles all around you, being potentially breathed in by those close to you, landing on surfaces, etc.
+You have various immune mechanisms for dealing with invading foreign particles. The most relevant mechanism in this case is coughing. The lungs determine that they have a source of irritation, and seek to expel it. This results in a cough—a rapid exhalation mediated by the valve of the epiglottis. If the foreign particles are relatively benign, e.g. pollen or some other irritant, all is well. However, if you have the unfortunate fate of being infected with a virus, the cough mechanism will be hijacked by the viral particles to increase their spread. There are now viral particles all around you, being potentially breathed in by those close to you, landing on surfaces, etc.
 
-You may now appreciate that coughing is a special case of breathing. So of course, when you are breathing normally, you may be exhaling viral particles into the air if you are infected, even if you do not have a cough. Persons who are infected with the virus but do not have symptoms such as coughing are asymptomatic, but are still perfectly capable of spreading the virus.
+You may now appreciate that coughing is a special case of breathing. So of course, when you are breathing normally, you may be exhaling viral particles into the air if you are infected, even if you do not have a cough. People who are infected with the virus but do not have symptoms such as coughing are called asymptomatic, but may still be perfectly capable of spreading the virus.
 
 ### Application
 
 Let's explore the implications for human behavior. When you are in a room, hallway or elevator, you are in an enclosed space, sharing the available atmosphere with the people around you. Anyone, including yourself, may be infected with an airborne virus and be unaware, due to a lack of symptoms. This is primetime for viral spread.
 
-Take a breath before you enter the room, or elevator. When inside, you can hold your breath, or tend towards a gentle exhale. You'll appreciate that it's near impossible to get infected unless you allow the atmosphere to flow into your lungs. Conversely, this would be a bad time to exhale a large amount of air from your lungs, as you yourself may be unknowingly infected, and could potentially be ejecting viral particles into the atmosphere shared with the people around you.
+Take a breath before you enter the room, or elevator. When inside, tend towards a slow and gentle exhale. You'll appreciate that it's near impossible to get infected unless you allow the atmosphere to flow into your lungs. Conversely, this would be a bad time to sharply exhale, as you yourself may be unknowingly infected, and could potentially be ejecting viral particles into the atmosphere you're sharing with the people around you.
 
-On the other hand, when you're in public and find yourself away from other people, you have a good opportunity to breathe. Minimize your breathing as you reach near other people. Or, if time allows, you can wait for the space to clear. Consider how the distance between you, and others, and your breathing, influence the risk of spreading infection.
+On the other hand, when you're in public and find yourself away from other people, you have a good opportunity to breathe. Minimize your breathing as you reach near other people at the store. Or, if time allows, you can wait for the space to clear. You can always consider in the back of your mind how the distance between you and others, and your breathing patterns, influence the risk of spreading infection.
 
-You might also be wary of stepping into a space immediately after someone else. Imagine a concentrated cloud of viral particles that could potentially be around the person as they breathed, slowly dispersing away, while some other particles fall to the ground. You might wait a moment for the air to clear.
+You might also be wary of stepping into a space immediately after someone else. Imagine a concentrated cloud of viral particles that could potentially be around the person as they breathed, slowly dispersing away, while some of the particles fall to the ground. You might wait a moment for the air to clear.
 
 How quickly you are moving will also increase the amount of energy, and therefore oxygen you need, resulting in harder breathing. A casual stroll instead of the usual brisk walk might be more neighborly to those around you.
 
-Also consider how the amount of viral particles that make it into your lung, or *viral load*, impacts the likelihood of getting infected at all. More viral particles bouncing around in your lungs means a greater chance of one of them lining themselves up correctly in orientation and space to attach to the right kind of receptor. Thus even if you have to breathe possibly viral air, breathing in less air would be better.
+Also consider how the amount of viral particles that make it into your lung, or *viral load*, impacts the likelihood of getting infected at all. More viral particles bouncing around in your lungs means a greater chance of one of them lining themselves up correctly in orientation and space, to attach to the right kind of receptor. Thus even if you have to breathe possibly viral air, breathing in less air would be better.
+
+As we return to normal life, there are still precautions you can take in social settings where you decide wearing a mask isn't reasonable or convenient. For example, at a bar or a show, you might be maskless, talking closely with some friends. You could take your scarf or a napkin and cover your mouth as you move around the venue, to reduce the chance of cross-contaminating your group with other groups.
 
 While none of these are a slam dunk, you can see it's a probability game. Just do the best you can muster, try to improve your understanding, and don't sweat it when you mess up. Safer breathing is a skill you can develop.
+
+Holding your breath is also an option, although you'll find it uncomfortable at first due to the CO<sub>2</sub> buildup. [Holding your breath is also a skill](https://youtu.be/V6iyDEWG1CU).
 
 ### Generality
 
