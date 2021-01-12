@@ -2,7 +2,7 @@
 layout: default
 title: Mask of the mind
 ---
-How to breathe with care during pandemics
+How to breathe carefully during pandemics
 ----------------
 
 Gareth Idris  
