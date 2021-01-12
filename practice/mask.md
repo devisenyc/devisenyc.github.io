@@ -50,7 +50,7 @@ Your fundamental cellular hardware has been hijacked, and is now a factory for p
 
 #### Damage
 
-Many viral particles are now forming inside your cell, to the point where it's full of virus. At some point, the cell will become overstretched, and burst open, in a process known as *lysing*. Now there are viral particles floating about all over the place inside your lungs, possibly attaching to other vulnerable receptors, and repeating the same process, exponentially, *ad nauseum*.
+Many viral particles are now forming inside your cell, to the point where it's full of virus. At some point, the cell will become overstretched, and burst open, in a process known as *lysing*. Now there are viral particles floating about all over the place inside your lungs, possibly attaching to other vulnerable receptors, and repeating the same process, exponentially, *ad nauseam*.
 
 The virus may spread into the bloodstream, and find the right receptors to hijack elsewhere in the body, attacking other organs.
 
