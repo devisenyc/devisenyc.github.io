@@ -10,7 +10,7 @@ Gareth Idris
 
 ### Claim
 
-We can significantly reduce the spread of airborne viruses by helping people develop an intuitive visual understanding of the behavior of airborne viral particles. This knowledge will inevitably lead to safer behaviors, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to those around us, and folks at large.
+We can significantly reduce the spread of airborne viruses by helping people develop an intuitive visual understanding of the behavior of airborne viral particles. This knowledge will inevitably lead to safer behaviors, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to the people we interact with, and the community at large.
 
 ### Breathing
 
@@ -40,7 +40,7 @@ Then, we *translate* these RNA sequences into proteins. Proteins, or enzymes, ar
 
 #### Hijack
 
-Viruses work by hijacking the Central Dogma of Molecular Biology. An example viral particle might consist of an RNA sequence, wrapped in a protective coating *membrane*, with an *injector* that is designed to attach to a *receptor*. Receptors are a type of protein that sits within your cell membranes, and they wait to receive particles of a certain shape on the outside of the membrane in order to transport them into the cell.
+Viruses work by hijacking the Central Dogma of Molecular Biology. An example viral particle might consist of an RNA sequence, wrapped in a protective coating *membrane*, with an *injector* (or *spike*) that is designed to attach to a *receptor*. Receptors are a type of protein that straddles the inside and outside of your cell membranes, where they wait to receive particles of a certain shape. When the receptor recognizes the right shape, this triggers some action within the cell. For the purpose of a virus, this action is injecting the viral RNA into your cell.
 
 You may appreciate that if these vulnerable cells are in your lungs, for example, there is some probability that you will inhale a number of viral particles. Then there is some chance that one, or some, of these particles will bounce around inside your lungs and may successfully orient and attach themselves to your vulnerable receptors. At this point, the virus will inject its RNA sequence inside your cell, by hijacking the receptor.
 
@@ -52,7 +52,7 @@ Your fundamental cellular hardware has been hijacked, and is now a factory for p
 
 Many viral particles are now forming inside your cell, to the point where it's full of virus. At some point, the cell will become overstretched, and burst open, in a process known as *lysing*. Now there are viral particles floating about all over the place inside your lungs, possibly attaching to other vulnerable receptors, and repeating the same process, exponentially, *ad nauseum*.
 
-The virus may then spread into the bloodstream, and find the right receptors to hijack elsewhere in the body, attacking other organs.
+The virus may spread into the bloodstream, and find the right receptors to hijack elsewhere in the body, attacking other organs.
 
 Cells make up tissues, and tissues are organized into organs (ears, eyes, nose, throat, heart, liver, lungs, skin, etc). If you damage enough of your cells–tissues–organs, the processes of life will no longer be able to sustain themselves. You die.
 
@@ -74,14 +74,16 @@ You might also be wary of stepping into a space immediately after someone else. 
 
 How quickly you are moving will also increase the amount of energy, and therefore oxygen you need, resulting in harder breathing. A casual stroll instead of the usual brisk walk might be more neighborly to those around you.
 
-Also consider how the amount of viral particles that make it into your lung, or *viral load*, impacts the likelihood of getting infected at all. More viral particles bouncing around in your lungs means a greater chance of one of them lining themselves up correctly in orientation and space, to attach to the right kind of receptor. Thus even if you have to breathe possibly viral air, breathing in less air would be better.
+Consider how the number of viral particles that make it into your lungs, or *viral load*, impacts the likelihood of getting infected at all. More viral particles bouncing around in your lungs means a greater chance of one of them lining themselves up correctly in orientation and space, to attach to the right kind of receptor. Even if you have to breathe possibly viral air, breathing in less air would be better.
 
 As we return to normal life, there are still precautions you can take in social settings where you decide wearing a mask isn't reasonable or convenient. For example, at a bar or a show, you might be maskless, talking closely with some friends. You could take your scarf or a napkin and cover your mouth as you move around the venue, to reduce the chance of cross-contaminating your group with other groups.
 
-While none of these are a slam dunk, you can see it's a probability game. Just do the best you can muster, try to improve your understanding, and don't sweat it when you mess up. Safer breathing is a skill you can develop.
+While none of these are a slam dunk on their own, you can see it's a probability game. Just do the best you can muster, try to improve your understanding, and don't sweat it when you mess up. Safer breathing is a skill you can develop.
 
-Holding your breath is also an option, although you'll find it uncomfortable at first due to the CO<sub>2</sub> buildup. [Holding your breath is also a skill](https://youtu.be/V6iyDEWG1CU).
+Holding your breath is also an option, although you'll find it uncomfortable at first due to the CO<sub>2</sub> buildup. Holding your breath is also a [learnable skill](https://youtu.be/V6iyDEWG1CU).
 
 ### Generality
 
 We can synthetically extend our immune system by wearing masks, to further disrupt the flow of the rather large viral particles by hoping they will become entangled in the mask material, or not spread as broadly when we breathe. But even if you don't have your mask with you, even in the future when a new viral threat emerges, you can always wear the *mask of the mind*.
+
+[![This work is licensed under a Creative Commons Attribution 4.0 International License.](https://i.creativecommons.org/l/by/4.0/88x31.png "This work is licensed under a Creative Commons Attribution 4.0 International License. We both know I'm not going to enforce it, so just do whatever I guess. Please consider replicating this virally.")](https://creativecommons.org/licenses/by/4.0/)
