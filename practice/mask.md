@@ -6,7 +6,11 @@ How to breathe carefully during pandemics
 ----------------
 
 Gareth Idris  
-[**devise.nyc**](https://devise.nyc)
+
+**See this article on [Medium](https://garethidris.medium.com/mask-of-the-mind-8147fff8ea0c).**
+
+<img alt="Chief Wiggum backs away screaming and shooting at a virus (The Simpsons)." src="/assets/images/wiggum-virus.gif" class="center">
+<p class="center-text"><em>Chief Wiggum has made some tactical errors here. Can you explain them all?</em></p>
 
 ### Hypothesis
 
