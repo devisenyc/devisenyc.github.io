@@ -8,9 +8,9 @@ How to breathe carefully during pandemics
 Gareth Idris  
 [**devise.nyc**](https://devise.nyc)
 
-### Claim
+### Hypothesis
 
-We can significantly reduce the spread of airborne viruses by helping people develop an intuitive visual understanding of the behavior of airborne viral particles. This knowledge will inevitably lead to safer behaviors, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to the people we interact with, and the community at large.
+We can reduce the spread of any airborne virus by helping people develop an intuitive visual understanding of the way viral particles in the air behave. Developing this knowledge will inevitably lead to safer choices, resulting in less viral transmission. The reduction in viral replication rate is limited only by our ability to produce increasingly accurate models of viral particle dynamics, and communicate them efficiently to the people we interact with, and the community at large.
 
 ### Breathing
 
@@ -68,22 +68,22 @@ Let's explore the implications for human behavior. When you are in a room, hallw
 
 Take a breath before you enter the room, or elevator. When inside, tend towards a slow and gentle exhale. You'll appreciate that it's near impossible to get infected unless you allow the atmosphere to flow into your lungs. Conversely, this would be a bad time to sharply exhale, as you yourself may be unknowingly infected, and could potentially be ejecting viral particles into the atmosphere you're sharing with the people around you.
 
-On the other hand, when you're in public and find yourself away from other people, you have a good opportunity to breathe. Minimize your breathing as you reach near other people at the store. Or, if time allows, you can wait for the space to clear. You can always consider in the back of your mind how the distance between you and others, and your breathing patterns, influence the risk of spreading infection.
+On the other hand, when you're in public and find yourself away from other people, you have a good opportunity to breathe. Minimize your breathing as you reach near other people at the store. Or, if time allows, you can wait for the space to clear. You can always consider in the back of your mind how the distance between you and others, along with your breathing patterns, influence the risk of spreading infection.
 
 You might also be wary of stepping into a space immediately after someone else. Imagine a concentrated cloud of viral particles that could potentially be around the person as they breathed, slowly dispersing away, while some of the particles fall to the ground. You might wait a moment for the air to clear.
 
-How quickly you are moving will also increase the amount of energy, and therefore oxygen you need, resulting in harder breathing. A casual stroll instead of the usual brisk walk might be more neighborly to those around you.
+How quickly you are moving will also increase the amount of energy, and therefore oxygen you need, resulting in harder breathing. A casual stroll instead of the usual brisk walk might be more neighborly to those around you. Similarly, loudly talking, laughing, singing and yodeling are probably best left for after you're out of the elevator.
 
 Consider how the number of viral particles that make it into your lungs, or *viral load*, impacts the likelihood of getting infected at all. More viral particles bouncing around in your lungs means a greater chance of one of them lining themselves up correctly in orientation and space, to attach to the right kind of receptor. Even if you have to breathe possibly viral air, breathing in less air would be better.
 
 As we return to normal life, there are still precautions you can take in social settings where you decide wearing a mask isn't reasonable or convenient. For example, at a bar or a show, you might be maskless, talking closely with some friends. You could take your scarf or a napkin and cover your mouth as you move around the venue, to reduce the chance of cross-contaminating your group with other groups.
 
-While none of these are a slam dunk on their own, you can see it's a probability game. Just do the best you can muster, try to improve your understanding, and don't sweat it when you mess up. Safer breathing is a skill you can develop.
+While none of these are a slam dunk on their own, you can see it's a probability game. Just do the best you can muster, try to improve your understanding, and don't sweat it when you mess up. Safer breathing is a skill you can develop. Hopefully you can see how breathing mindfully *without a mask* can be safer than breathing mindlessly with one.
 
 Holding your breath is also an option, although you'll find it uncomfortable at first due to the CO<sub>2</sub> buildup. Holding your breath is also a [learnable skill](https://youtu.be/V6iyDEWG1CU).
 
 ### Generality
 
-We can synthetically extend our immune system by wearing masks, to further disrupt the flow of the rather large viral particles by hoping they will become entangled in the mask material, or not spread as broadly when we breathe. But even if you don't have your mask with you, even in the future when a new viral threat emerges, you can always wear the *mask of the mind*.
+We can synthetically extend our immune system by wearing masks, to further disrupt the flow of the rather large viral particles by hoping they will become entangled in the mask material, or not spread as broadly when we breathe. But even if you don't have your mask with you or can't wear one, even in the future when a new viral threat emerges, you can always wear the *mask of the mind*.
 
 [![This work is licensed under a Creative Commons Attribution 4.0 International License.](https://i.creativecommons.org/l/by/4.0/88x31.png "This work is licensed under a Creative Commons Attribution 4.0 International License. We both know I'm not going to enforce it, so just do whatever I guess. Please consider replicating this virally.")](https://creativecommons.org/licenses/by/4.0/)
