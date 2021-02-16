@@ -43,4 +43,4 @@ We can develop these skills and our understanding together to help stop the spre
 
 Remember to follow the latest [CDC guidelines on mask fit](https://www.cdc.gov/coronavirus/2019-ncov/your-health/effective-masks.html), or wear an N95 mask if you can.
 
-If you’re interested in a deeper look, see this [article](https://devise.nyc/practice/pandemic/hypothesis.md) on the scientific understanding that underpins these ideas.
+If you’re interested in a deeper look, see this [article](https://devise.nyc/practice/pandemic/hypothesis) on the scientific understanding that underpins these ideas.
