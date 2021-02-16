@@ -1,5 +1,9 @@
-# Mask of the mind
-## Conscious breath control to avoid viral spread
+---
+layout: default
+title: Conscious breath control to avoid viral spread
+---
+Scientific concepts underlying the "mask of the mind"
+---- 
 
 Gareth Idris
 
