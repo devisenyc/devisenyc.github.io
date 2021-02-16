@@ -1,6 +1,8 @@
 - name: Home
   link: /
-- name: Mask of the mind
+- name: 'Mask of the mind: Intro'
+  link: https://garethidris.medium.com/mask-of-the-mind-8147fff8ea0c
+- name: 'Mask of the mind: Hypothesis'
   link: /practice/pandemic/hypothesis
 - name: About
   link: /about
