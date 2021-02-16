@@ -1,16 +1,11 @@
----
-layout: default
-title: Mask of the mind
----
-How to breathe carefully during pandemics
-----------------
+# Mask of the mind
+## Conscious breath control to avoid viral spread
 
-Gareth Idris  
+Gareth Idris
 
-**See this article on [Medium](https://garethidris.medium.com/mask-of-the-mind-8147fff8ea0c).**
+**See a more readable intro to these ideas on [Medium](https://garethidris.medium.com/mask-of-the-mind-8147fff8ea0c).**
 
-<img alt="Chief Wiggum backs away screaming and shooting at a virus (The Simpsons)." src="/assets/images/wiggum-virus.gif" class="center">
-<p class="center-text"><em>Chief Wiggum has made some tactical errors here. Can you explain them all?</em></p>
+This article aims to explain relevant mechanics of breathing and viral reproduction that when combined, lead to a novel model for how conscious breath control can be effective in limiting amount and duration of viral exposure, and why that matters for reducing the spread of an airborne virus.
 
 ### Hypothesis
 
@@ -89,5 +84,6 @@ Holding your breath is also an option, although you'll find it uncomfortable at 
 ### Generality
 
 We can synthetically extend our immune system by wearing masks, to further disrupt the flow of the rather large viral particles by hoping they will become entangled in the mask material, or not spread as broadly when we breathe. But even if you don't have your mask with you or can't wear one, even in the future when a new viral threat emerges, you can always wear the *mask of the mind*.
+
 
 [![This work is licensed under a Creative Commons Attribution 4.0 International License.](https://i.creativecommons.org/l/by/4.0/88x31.png "This work is licensed under a Creative Commons Attribution 4.0 International License. We both know I'm not going to enforce it, so just do whatever I guess. Please consider replicating this virally.")](https://creativecommons.org/licenses/by/4.0/)
