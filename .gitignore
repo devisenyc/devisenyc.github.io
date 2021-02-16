@@ -3,3 +3,4 @@ _site/
 .DS_Store
 .Ulysses-Group.plist
 .Ulysses-Settings.plist
+Gemfile.lock
